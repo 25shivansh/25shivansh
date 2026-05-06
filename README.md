@@ -77,7 +77,6 @@ const shivansh = {
 
 </div>
 
-> 💡 **Want live stats?** After pasting this README, set up [GitHub Actions for stats](https://github.com/lowlighter/metrics) to auto-generate stat images committed directly to your repo — no third-party servers needed!
 
 ---
 
